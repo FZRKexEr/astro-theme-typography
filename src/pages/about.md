@@ -1,5 +1,5 @@
 ---
-layout: '../layouts/MySiteLayout.astro'
+layout: '../layouts/LayoutDefault.astro'
 title: '关于'
 ---
 
