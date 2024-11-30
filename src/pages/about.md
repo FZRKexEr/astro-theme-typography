@@ -1,3 +1,8 @@
+---
+layout: '../layouts/MySiteLayout.astro'
+title: '关于'
+---
+
 # 关于
 
 这是一个测试页面
