@@ -2,7 +2,7 @@ import type { UserConfig } from '~/types'
 
 export const userConfig: Partial<UserConfig> = {
   site: {
-    title: '博客', // 暂时就这个名字，没想好title叫什么
+    title: '一些文章', // 暂时就这个名字，没想好title叫什么
     subtitle: '', // 先空着
     author: 'LiZnB',
     description: '',  // 先空着
