@@ -2,10 +2,10 @@ import type { UserConfig } from '~/types'
 
 export const userConfig: Partial<UserConfig> = {
   site: {
-    title: 'Blog Test',
-    subtitle: 'blog test',
+    title: 'LiZnB的博客',
+    subtitle: '', // 先空着
     author: 'LiZnB',
-    description: 'test test test',
+    description: '',  // ?
     website: 'https://liznb.com/',
     socialLinks: [
       {
