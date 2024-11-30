@@ -34,7 +34,10 @@ $$
 
 ### 这是一个代码块
 
-```javascript
-function helloWorld() {
-  console.log("Hello, world!");
+```cpp
+#include<iostream>
+int main() {
+  std::cout << "Hello World";
+  return 0;
 }
+```
