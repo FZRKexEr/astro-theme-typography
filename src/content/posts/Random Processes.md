@@ -5,7 +5,7 @@ categories: ["概率"]
 description: "一些随机过程"
 ---
 
-[TOC]
+
 
 ## 1. Geometric random variable
 
