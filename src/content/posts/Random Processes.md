@@ -5,20 +5,7 @@ categories: ["概率"]
 description: "一些随机过程"
 ---
 
-# Random Processes
-
-Random Processes:
-
-1. Geometric random variable
-2. Exponential random variable
-3. Stochastic process
-4. Poisson process
-5. Discrete time Markov chain
-6. Chapman-Kolmogorov equation(for DTMC)
-7. Continuous time Markov chain
-8. Chapman-Kolmogorov equation(for CTMC)
-9. Kolmogorov differential equation
-10. Birth-death process
+[TOC]
 
 ## 1. Geometric random variable
 
